@@ -1,2 +1,9 @@
-# Student-management-System-Java
-Java console based CRUD application
+Student-Management-System-Java
+ ┣ src
+ ┃ ┣ Student.java
+ ┃ ┗ Main.java
+ ┣ data
+ ┃ ┗ students.txt
+ ┣ README.md
+
+
